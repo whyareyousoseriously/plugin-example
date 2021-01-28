@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Built-By: chenzhen
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_171
+Extension-Name: cz-check
+Specification-Title: TODO
+Implementation-Title: cz-check
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: org.jenkins
+Short-Name: cz-check
+Long-Name: TODO Plugin
+Url: https://wiki.jenkins-ci.org/display/JENKINS/TODO+Plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0-SNAPSHOT (private-01/20/2021 09:42-chenzhen)
+Hudson-Version: 2.164.1
+Jenkins-Version: 2.164.1
+Plugin-Developers: 
+Plugin-License-Name: MIT License
+Plugin-License-Url: http://opensource.org/licenses/MIT
+Plugin-ScmUrl: https://github.com/jenkinsci/plugin-pom/cz-check
+

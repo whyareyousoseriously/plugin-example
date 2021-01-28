@@ -1,0 +1,6 @@
+org\jenkins\czcheck\HelloWorldBuilder$DescriptorImpl.class
+META-INF\annotations\hudson.Extension.txt
+org\jenkins\czcheck\HelloWorldBuilder\DescriptorImpl\doCheckName.stapler
+org\jenkins\czcheck\HelloWorldBuilder.class
+org\jenkins\czcheck\HelloWorldBuilder.stapler
+META-INF\annotations\hudson.Extension
